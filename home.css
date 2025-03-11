@@ -1,0 +1,18 @@
+body{ 
+    background-image: url('Images/images.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+} 
+#main-title{
+    color: gray;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 5px;
+    text-font: bold;
+    border: 5px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 100px;    
+
+}
