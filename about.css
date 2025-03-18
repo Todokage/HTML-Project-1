@@ -1,4 +1,5 @@
-body{ 
+body{  color: white;
+    font-family: 'Roboto', sans-serif;
     background-image: url('Images/flat-lay-workstation-with-copy-space-laptop.jpg');
     background-size: cover;
     background-repeat: no-repeat;
@@ -17,7 +18,7 @@ body{
 
 }
 .button-1, .button-2, .button-3, .button-4{
-display: inline-block;
+display: inline;
 border: none;
 text-align: center;
 text-decoration: none;

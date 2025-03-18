@@ -4,7 +4,7 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     color: white;
-    font-family: 'Arial', sans-serif;
+    font-family: 'Roboto', sans-serif;
     margin: 100px;
 } 
 #main-title{
@@ -17,7 +17,7 @@ body{
 
 }
 .button-1, .button-2, .button-3, .button-4{
-display: inline-block;
+display: inline;
 border: none;
 text-align: center;
 text-decoration: none;
